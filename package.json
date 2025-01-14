@@ -13,7 +13,7 @@
     "evals": "tsx ./scripts/runEvaluation.ts"
   },
   "dependencies": {
-    "@clerk/nextjs": "^4.29.3",
+    "@clerk/nextjs": "^4.31.6",
     "@headlessui/react": "^1.7.18",
     "@langchain/community": "^0.0.50",
     "@langchain/core": "^0.1.58",
